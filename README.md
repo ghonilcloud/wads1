@@ -15,3 +15,5 @@ git commit -m "comment"
 git push
 
 vroom
+
+use git pull, to get the file from github if also use "accept current changes" to merge 
