@@ -9,5 +9,7 @@ Change something
 make the change then save it
 
 git status
+
 git commit -m "comment"
+
 git push
